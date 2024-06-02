@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>뜌땨 뜌우따이 뜌땨땨 우땨아!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>전자음악 고수가 될거야</h1>
+        <p id="musicTitle"></p>
+
+        <iframe width="100%" height="30%" scrolling="no" frameborder=true hidden=true
+          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/293&amp;">
+        </iframe>
+
+        <div class="buttons">
+            <button id="newButton">새로운 음악!</button>
+        </div>
+    </div>
+
+    <div class="spec">
+      <input type="file" accept="audio/*" id="audioInput" onchange="handleFileSelect(event)">
+      <canvas id="spectrum"></canvas>
+    </div>
+    
+
+    <script src="scripts.js"></script>
+</body>
+</html>
