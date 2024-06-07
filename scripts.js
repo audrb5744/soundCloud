@@ -17,7 +17,10 @@ const musicList = [
   {url: "r3gma/nanoo-nearly-almost-dead", highLight: 52},
   {url: "imkostamusic/bee-gees-stayin-alive-kosta-club-edit-free-dl", highLight: 60},
   {url: "punyaso/this-is-halloween-punyaso-remix", highLight: 36},
-  {url: "user-770501471/sets/complextro", highLight: 43}
+  {url: "raytraxdtm/somanylynx-icons-st", highLight: 13},
+  {url: "herobust/move-mint-vip", highLight: 69},
+  {url: "ryokmbk/voxel", highLight: 40},
+  {url: "distayne/suit-up", highLight: 43}
   
 ];
 
