@@ -20,7 +20,8 @@ const musicList = [
   {url: "raytraxdtm/somanylynx-icons-st", highLight: 13},
   {url: "herobust/move-mint-vip", highLight: 69},
   {url: "ryokmbk/voxel", highLight: 40},
-  {url: "distayne/suit-up", highLight: 43}
+  {url: "distayne/suit-up", highLight: 43},
+  {url: "mixmash-records/laidback-luke-twoloud-fcukin-beats-original-mix", highLight: 58}
   
 ];
 
